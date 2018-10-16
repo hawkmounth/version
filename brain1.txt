@@ -1,3 +1,4 @@
 {
-  "version": 5,asasa
+  "version": 5.1,
+  "description": "- Update new Game Mode\n- Optimze game smoother"
 }
